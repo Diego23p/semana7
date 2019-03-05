@@ -1,4 +1,7 @@
 ## Escuela Colombiana de Ingeniería
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/aaa37bc1f0ff467aaa9a6a09dad55006)](https://app.codacy.com/app/Diego23p/semana7?utm_source=github.com&utm_medium=referral&utm_content=Diego23p/semana7&utm_campaign=Badge_Grade_Settings)
+
 ## Ciclos de Vida del Desarrollo de Software – CVDS
 ## Parcial Práctico - 1er Tercio
 
