@@ -106,3 +106,7 @@ En esta parte del parcial, se va a exponer por medio de unos servicios web, la a
 
 * Cargar en Moodle antes de finalizar el parcial.
 * Comprima todo el contenido del proyecto en un archivo .zip (excluyendo la carpeta target) y agreguela al esapcio correspondiente en Moodle.
+
+
+https://circleci.com/gh/Diego23p/semana7.svg?style=svg
+https://api.codacy.com/project/badge/Grade/5e1b98eb453b481889c84941dbc32205)](https://www.codacy.com/app/Diego23p/semana7?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Diego23p/semana7&amp;utm_campaign=Badge_Grade)
